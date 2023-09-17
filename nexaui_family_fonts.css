@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'NexaUI-Thin';
+    src: url('NexaUI-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'NexaUI-Light';
+    src: url('NexaUI-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'NexaUI-Regular';
+    src: url('NexaUI-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
