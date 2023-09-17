@@ -19,7 +19,7 @@ To use the NexaUI font family in your projects:
 
 ## License
 
-Please ensure you have the necessary rights and permissions to use the NexaUI font family in your projects.
+You can use the NexaUI font family in your projects.
 
 ---
 
